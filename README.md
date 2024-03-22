@@ -1,5 +1,10 @@
-### Hi there 👋
+<div align='center'>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=3500&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=Ol%C3%A1%2C+sou+Caio+Rodrigo;bem-vindo+ao+meu+perfil+do+GitHub!%F0%9F%98%B8" alt="Typing SVG">
+</div>
 
+<div>
+  <img scr="https://media.tenor.com/r8qEfFn85EYAAAAi/cat-cats.gif">
+</div>
 <!--
 **caiodrigo/caiodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
